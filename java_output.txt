@@ -1,0 +1,86 @@
+
+[👦🏼-student3][📂-DOCUMENT1][📄-8pg] - Printing document with page length: 8.
+[👦🏼-student3][📂-DOCUMENT1][📄-8pg] - Successfully printed the document✔ 
+New Paper Level is 52 and Toner Level is 42.
+[👦🏼-student1][📂-DOCUMENT1][📄-4pg] - Printing document with page length: 4.
+[👦🏼-student1][📂-DOCUMENT1][📄-4pg] - Successfully printed the document✔ 
+New Paper Level is 48 and Toner Level is 38.
+[👦🏼-student2][📂-DOCUMENT1][📄-2pg] - Printing document with page length: 2.
+[👦🏼-student2][📂-DOCUMENT1][📄-2pg] - Successfully printed the document✔ 
+New Paper Level is 46 and Toner Level is 36.
+[👦🏼-student4][📂-DOCUMENT1][📄-1pg] - Printing document with page length: 1.
+[👦🏼-student4][📂-DOCUMENT1][📄-1pg] - Successfully printed the document✔ 
+New Paper Level is 45 and Toner Level is 35.
+🔍 🖨️ Checking toner... Toner need not be replaced at this time. Current Toner Level is 35
+[👦🏼-student3][📂-DOCUMENT2][📄-9pg] - Printing document with page length: 9.
+[👦🏼-student3][📂-DOCUMENT2][📄-9pg] - Successfully printed the document✔ 
+New Paper Level is 36 and Toner Level is 26.
+[👦🏼-student2][📂-DOCUMENT2][📄-6pg] - Printing document with page length: 6.
+[👦🏼-student2][📂-DOCUMENT2][📄-6pg] - Successfully printed the document✔ 
+New Paper Level is 30 and Toner Level is 20.
+[👦🏼-student1][📂-DOCUMENT2][📄-3pg] - Printing document with page length: 3.
+[👦🏼-student1][📂-DOCUMENT2][📄-3pg] - Successfully printed the document✔ 
+New Paper Level is 27 and Toner Level is 17.
+Checking paper... Refilling printer with paper... Refilled tray with pack of paper. New Paper Level: 77.
+🔍 🖨️ Checking toner... Toner need not be replaced at this time. Current Toner Level is 17
+[👦🏼-student3][📂-DOCUMENT3][📄-1pg] - Printing document with page length: 1.
+[👦🏼-student3][📂-DOCUMENT3][📄-1pg] - Successfully printed the document✔ 
+New Paper Level is 76 and Toner Level is 16.
+[👦🏼-student2][📂-DOCUMENT3][📄-6pg] - Printing document with page length: 6.
+[👦🏼-student2][📂-DOCUMENT3][📄-6pg] - Successfully printed the document✔ 
+New Paper Level is 70 and Toner Level is 10.
+[👦🏼-student4][📂-DOCUMENT2][📄-2pg] - Printing document with page length: 2.
+[👦🏼-student4][📂-DOCUMENT2][📄-2pg] - Successfully printed the document✔ 
+New Paper Level is 68 and Toner Level is 8.
+[👦🏼-student1][📂-DOCUMENT3][📄-8pg] - Printing document with page length: 8.
+[👦🏼-student1][📂-DOCUMENT3][📄-8pg] - Successfully printed the document✔ 
+New Paper Level is 60 and Toner Level is 0.
+Checking paper... Refilling printer with paper... Refilled tray with pack of paper. New Paper Level: 110.
+Checking toner... Toner is low. Current Toner Level is 0. Replacing toner cartridge... Successfully replaced Toner Cartridge. New Toner Level is 500.
+[👦🏼-student4][📂-DOCUMENT3][📄-3pg] - Printing document with page length: 3.
+[👦🏼-student4][📂-DOCUMENT3][📄-3pg] - Successfully printed the document✔ 
+New Paper Level is 107 and Toner Level is 497.
+Paper Technician paperTechnician finished attempts to refill printer with paper packs.
+[👦🏼-student2][📂-DOCUMENT4][📄-4pg] - Printing document with page length: 4.
+[👦🏼-student2][📂-DOCUMENT4][📄-4pg] - Successfully printed the document✔ 
+New Paper Level is 103 and Toner Level is 493.
+[👦🏼-student1][📂-DOCUMENT4][📄-1pg] - Printing document with page length: 1.
+[👦🏼-student1][📂-DOCUMENT4][📄-1pg] - Successfully printed the document✔ 
+New Paper Level is 102 and Toner Level is 492.
+[👦🏼-student3][📂-DOCUMENT4][📄-4pg] - Printing document with page length: 4.
+[👦🏼-student3][📂-DOCUMENT4][📄-4pg] - Successfully printed the document✔ 
+New Paper Level is 98 and Toner Level is 488.
+[👦🏼-student3][📂-DOCUMENT5][📄-6pg] - Printing document with page length: 6.
+[👦🏼-student3][📂-DOCUMENT5][📄-6pg] - Successfully printed the document✔ 
+New Paper Level is 92 and Toner Level is 482.
+✅Student student3 finished printing documents.
+[👦🏼-student2][📂-DOCUMENT5][📄-3pg] - Printing document with page length: 3.
+[👦🏼-student2][📂-DOCUMENT5][📄-3pg] - Successfully printed the document✔ 
+New Paper Level is 89 and Toner Level is 479.
+✅Student student2 finished printing documents.
+[👦🏼-student4][📂-DOCUMENT4][📄-9pg] - Printing document with page length: 9.
+[👦🏼-student4][📂-DOCUMENT4][📄-9pg] - Successfully printed the document✔ 
+New Paper Level is 80 and Toner Level is 470.
+🔍 🖨️ Checking toner... Toner need not be replaced at this time. Current Toner Level is 470
+[👦🏼-student1][📂-DOCUMENT5][📄-1pg] - Printing document with page length: 1.
+[👦🏼-student1][📂-DOCUMENT5][📄-1pg] - Successfully printed the document✔ 
+New Paper Level is 79 and Toner Level is 469.
+✅Student student1 finished printing documents.
+[👦🏼-student4][📂-DOCUMENT5][📄-7pg] - Printing document with page length: 7.
+[👦🏼-student4][📂-DOCUMENT5][📄-7pg] - Successfully printed the document✔ 
+New Paper Level is 72 and Toner Level is 462.
+✅Student student4 finished printing documents.
+🔍 🖨️ Checking toner... Toner need not be replaced at this time. Current Toner Level is 462
+🔴🟢🔵 Toner Technician finished attempts to replace toner cartridges.
+✅ All tasks completed
+
+              PRINTER SUMMARY           
+
++-------------+---------------+--------------+-----------------+
+| Printer ID  | Paper Level   | Toner Level  | Documents Printed|
++-------------+---------------+--------------+-----------------+
+| HP Printer   | 72            | 462          | 20             |
++-------------+---------------+--------------+-----------------+
+
+
+Process finished with exit code 0
